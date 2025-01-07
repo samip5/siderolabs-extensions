@@ -1,11 +1,6 @@
-modules.alias
+modules.order
 modules.builtin
 modules.builtin.modinfo
-modules.dep
-modules.order
-modules.softdep
-modules.symbols
-modules.symbols.bin
 kernel/drivers/i2c/i2c-mux.ko
 kernel/drivers/media/i2c/cs3308.ko
 kernel/drivers/media/i2c/cx25840/cx25840.ko
